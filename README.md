@@ -37,5 +37,5 @@ We'll exit from the project.
 ![6](https://github.com/abanoubwagim/atm-system/assets/149309638/c2e450be-4526-422d-b149-5a84ff7bc6b0)
 
 
-This project was worked on by IntelliJ IDEA Community Edition.
+This project was worked by IntelliJ IDEA Community Edition.
 
